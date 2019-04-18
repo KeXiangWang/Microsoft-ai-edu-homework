@@ -23,6 +23,7 @@ $$
 $$
 
 - 当选手维持原先的选择时，可能的情况与上面所列出的正好相反。
+- <a href="https://www.codecogs.com/eqnedit.php?latex=$$\frac{1}{3}\times\frac{1}{2}&plus;\frac{1}{3}\times\frac{1}{2}&space;=&space;\frac{1}{3}$$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\frac{1}{3}\times\frac{1}{2}&plus;\frac{1}{3}\times\frac{1}{2}&space;=&space;\frac{1}{3}quot; title="$\frac{1}{3}\times\frac{1}{2}+\frac{1}{3}\times\frac{1}{2} = \frac{1}{3}quot; /></a>
 
 
 - **结论**：转变的话，获得奖品可能性为2/3，维持的话为1/3，故提高了1/3。
