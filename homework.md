@@ -18,14 +18,10 @@
   - 选手挑空门二号，主持人挑空门一号。转换将赢得奖品。
   - 选手挑到奖品，主持人挑空门一号，转换将失败和选手挑到奖品，主持人挑空门二号，转换将失败。此情况的可能性为：
 
-$$
-\frac{1}{3}\times\frac{1}{2}+\frac{1}{3}\times\frac{1}{2} = \frac{1}{3}
-$$
+![1555575574960](C:\Users\64665\AppData\Roaming\Typora\typora-user-images\1555575574960.png)
 
 - 当选手维持原先的选择时，可能的情况与上面所列出的正好相反。
 - **结论**：转变的话，获得奖品可能性为2/3，维持的话为1/3，故提高了1/3。
-
-<a href="https://www.codecogs.com/eqnedit.php?latex=$$&space;\frac{1}{3}\times\frac{1}{2}&plus;\frac{1}{3}\times\frac{1}{2}&space;=&space;\frac{1}{3}&space;$$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$$&space;\frac{1}{3}\times\frac{1}{2}&plus;\frac{1}{3}\times\frac{1}{2}&space;=&space;\frac{1}{3}&space;$$" title="$$ \frac{1}{3}\times\frac{1}{2}+\frac{1}{3}\times\frac{1}{2} = \frac{1}{3} $$" /></a>
 
 ### Question_2
 
